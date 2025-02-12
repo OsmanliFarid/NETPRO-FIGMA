@@ -130,3 +130,301 @@ body{
     column-gap: 50px;
     row-gap: 20px;
 }
+.main-xidmet-cart-boxss{
+    background: url(../images/WhatsApp\ Image\ 2022-01-23\ at\ 22.06\ 2.svg)no-repeat center;
+    background-size: cover;
+    min-height: 855px;
+}
+.main-xidmet-title-box{
+    display: flex;
+    column-gap: 10px;
+    padding: 50px 0px;
+    color: #606F84;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.42px;
+}
+.main-xidmet-title-text2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.84px;
+    color: #435072;
+}
+.main-xidmet-boxs{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-top: 50px;
+    gap: 20px;
+}
+.main-xidmet-box{
+    min-width: 300px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.main-xidmet-box2{
+    max-width: 400px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img2{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text4{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.main-xidmet-box3{
+    min-width: 300px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img3{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text5{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text6{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.main-xidmet-box4{
+    min-width: 300px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img4{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text7{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text8{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.main-xidmet-box5{
+    min-width: 300px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img5{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text9{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text10{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.main-xidmet-box6{
+    min-width: 300px;
+    min-height: 250px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.main-xidmet-img6{
+    padding: 30px 50px;
+    
+    
+}
+.main-xidmet-text11{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 5px 0px 15px 50px;
+    color: #435072;
+}
+.main-xidmet-text12{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 5px 0px 15px 50px;
+}
+.bars{
+    max-width: 40px;
+    min-height: 40px;
+    display: none;
+}
+.main-brand-background{
+    background: url(../images/SL_042620_30310_36\ 4.png)no-repeat center;
+    background-size: cover;
+    min-height: 237px;
+    background-color: #49567A;
+}
+.main-brand-text{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #fff;
+}
+.main-brand-boxs{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    justify-content: space-between;
+}
+.main-brand-boxs-box{
+    text-align: center;
+    
+}
+.main-brand-box img{
+    margin-left: 20px;
+}
+.main-brand-box img:nth-child(1){
+    background-color: #fff;
+    padding: 10px 30px;
+}
+.main-brand-box img:nth-child(2){
+    background-color: #fff;
+    padding: 16px 30px;
+}
+.main-brand-box img:nth-child(3){
+    background-color: #fff;
+    padding: 10px 30px;
+}
+.main-brand-row{
+    padding-top: 10px;
+}
+@media (max-width:576px) {
+    .container{
+        max-width: 100vw;
+    }
+      .bars{
+        display: block;
+      }
+      .links{
+        display: none;
+      }
+      .main-partnyor-boxs{
+        grid-template-columns: 1fr;
+      }
+      .main-partnyor-logos{
+        grid-template-columns: repeat(2,1fr);
+        column-gap: 20px;
+      }
+      .main-partnyor-text{
+        min-width: 360px;
+        font-size: 24px;
+        text-align: center;
+        padding: 40px 0px;
+      }
+      .main-xidmet-boxs{
+        grid-template-columns: 1fr;
+      }
+      .main-xidmet-box{
+        max-width: 350px;
+      }
+      .main-xidmet-box2{
+        max-width: 350px;
+      }
+      .main-xidmet-box3{
+        max-width: 350px;
+      }
+      .main-xidmet-box4{
+        max-width: 350px;
+      }
+      .main-xidmet-box5{
+        max-width: 350px;
+      }
+      .main-xidmet-box6{
+        max-width: 350px;
+      }
+      .main-xidmet-header{
+        display: grid;
+        justify-content: center;
+      }
+      .main-brand-boxs{
+        flex-direction: column;
+        
+      }
+      .main-brand-text{
+        margin-top: -50px;
+      }
+      .main-brand-box img:nth-child(1){
+        background-color: #fff;
+        padding: 10px 30px;
+        margin-top: 10px;
+    }
+    .main-brand-box img:nth-child(2){
+        background-color: #fff;
+        padding: 16px 13px;
+        margin-top: 10px;
+    }
+    .main-brand-box img:nth-child(3){
+        background-color: #fff;
+        padding: 10px 30px;
+        margin-top: 10px;
+    }
+    .main-xidmet-box6{
+        margin-bottom: 50px;
+    }
+    .main-footer-btn-img{
+        margin-bottom: 50px;
+    }
+    .main-partnyor-logos{
+        margin-bottom: 50px;
+    }
+    .main-xidmet-boxs{
+        margin-left: 15px;
+    }
+}
