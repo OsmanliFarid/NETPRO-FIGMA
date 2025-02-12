@@ -111,3 +111,22 @@ body{
     margin-top: 50px;
     border-radius: 10px;
 }
+.main-partnyor-text{
+    font-weight: 700;
+    color: #435072;
+    font-size: 40px;
+    line-height: 48.84px;
+    max-width: 268px;
+}
+.main-partnyor-boxs{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    min-height: 260px;
+}
+.main-partnyor-logos{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 50px;
+    row-gap: 20px;
+}
